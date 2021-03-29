@@ -11,7 +11,7 @@
 <br />
 <code><i> One sentence to describe this new skill. </i></code>
 
-Ember
+Ember.js, an open-source JavaScript web framework, for creating ambitious web applications.
 
 **Learning Objectives:**
 <br />
