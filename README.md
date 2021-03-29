@@ -17,21 +17,6 @@ Ember
 <br />
 <code><i> List the core concepts or foundational skills needed to master this skill. </i></code>
 
-- [ ] Installing Ember Inspector
-- [ ] Reviewing routes with Ember Inspector
-- [ ] Loading templates with routes
-- [ ] Creating links with the link-to helper
-- [ ] Adding component templates
-- [ ] Loading model data
-- [ ] Customizing components
-- [ ] Building nested routes and route objects
-- [ ] Loading data with object and array controllers
-- [ ] Creating interfaces
-
-**Proficiency Metrics:**
-<br />
-<code><i> List task you'll be able to achieve after completed this 30 day learning journey.  </i></code>
-
 - [ ] Architectural Understanding
     - [ ] Model
     - [ ] View
@@ -53,9 +38,29 @@ Ember
 - [ ] Nesting
 
 
+**Proficiency Metrics:**
+<br />
+<code><i> List task you'll be able to achieve after completed this 30 day learning journey.  </i></code>
+
+- [ ] Reviewing routes with Ember Inspector
+- [ ] Loading templates with routes
+- [ ] Creating links with the link-to helper
+- [ ] Adding component templates
+- [ ] Loading model data
+- [ ] Customizing components
+- [ ] Building nested routes and route objects
+- [ ] Loading data with object and array controllers
+- [ ] Creating interfaces
+- [ ] How to create conditionals?
+- [ ] How to loop?
+- [ ] What is the Convention-over-Configuration Approach?
+- [ ] What are glimmer components?
+- [ ] What is Ember Observer?
+- [ ] What is the Ember CLI? Why do I need it?
+- [ ] How to test?
+
 ## Learning Resources:
 <code><i> Categorizing my learning resources based on my learning style usually helps me a ton. </i></code>
-
 
 
 👀 Visual Resources:
@@ -114,11 +119,11 @@ Ember
 📝 Teaching Opportunities (Verbal and Social Learner):
 
 
-1. --
-2. --
-3. --
-4. --
-5. --
+1. Writing blog post
+2. Creating a TikTok or IG Reel series about Ember JS 
+3. YouTube or Twitch Content
+4. Speaking at Ember Conference
+5. At-work opportunities running Ember workshops
 
 
 👋🏾 Open Source Projects to Contribute To (Hands-on learner):
@@ -152,13 +157,13 @@ Ember
 2.  [Melanie Sumner](https://twitter.com/melaniersumner)
 3. [Leah Silber](https://twitter.com/wifelette)
 4. Ava Wroten
-5. Mike North
-6. David Tang
-7. Balint Erdi
-8. Scott Newcomer
+5. [Mike North](https://twitter.com/michaellnorth)
+6. [David Tang](https://twitter.com/iamdtang)
+7. [Balint Erdi](https://twitter.com/baaz)
+8. [Scott Newcomer](https://twitter.com/puekey)
 9. Jessica Jordan 
-10. NullVoxPopuli
-11. Jen Weber
+10. [NullVoxPopuli](https://twitter.com/nullvoxpopuli)
+11. [Jen Weber](https://twitter.com/jwwweber)
 12. Dianne Eramo
 13. Ryan LaBouve
 14. Katie Gengler
