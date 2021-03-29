@@ -232,7 +232,6 @@ Ember.js, an open-source JavaScript web framework, for creating ambitious web ap
 <br />
     
 <img src="https://user-images.githubusercontent.com/7072856/112857042-70f02f00-907e-11eb-8894-5e4043256e2f.png" width=200>
-<br />
 Balint Erdi's Rock and Roll with Ember Octane
 
 <p>&nbsp;</p>
@@ -249,10 +248,11 @@ Mon - Fri: Tutorials & Learning
 I learn best in the morning so 6am works for me!
 
 <p>&nbsp;</p>
+<br />
 Week 1 - 83 pages
----
+-----
 
-|:       Chapters or Video        |     Pages or Time      |
+|Chapters or Video                |     Pages or Time      |
 |---------------------------------|------------------------|
 | 1. Introduction to Ember.js     |        Page 1-15       |
 | 2. Ember CLI                    |        Page 16-24      |
@@ -262,11 +262,9 @@ Week 1 - 83 pages
 | 6. Components                   |        Page 67-83      |
 
 
-
-
 Week 2 - 116 pages
 ----------
-|:-------Chapters or Video--------|     Pages or Time      |
+|Chapters or Video                |     Pages or Time      |
 |---------------------------------|------------------------|
 | 7. Controllers                  |        Page 83-113     |
 | 8. Building a catalog           |        Page 114-140    |
@@ -276,7 +274,7 @@ Week 2 - 116 pages
 Week 3 - 134 pages
 ----------
 
-|:------Chapters or Video---------|     Pages or Time      |
+|Chapters or Video                |     Pages or Time      |
 |---------------------------------|------------------------|
 | 10. Advanced routing            |        Page 200-235    |
 | 11. Testing                     |        Page 236-284    |
@@ -285,7 +283,7 @@ Week 3 - 134 pages
 
 Week 4 - 57 pages
 ----------
-|:-----Chapters or Video----------|     Pages or Time      |
+|Chapters or Video                |     Pages or Time      |
 |---------------------------------|------------------------|
 | 13. Loading and Error Substates |        Page 335-348    |
 | 14. Helpers                     |        Page 349-371    |
