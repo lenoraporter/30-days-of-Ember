@@ -65,11 +65,11 @@ Focused Topics:
 2. https://www.emberscreencasts.com
 3. https://www.youtube.com/watch?v=zXbqv2PeYCM
 4. [Ember Octane - Great For Beginners by Ilya Radchenko](https://www.youtube.com/watch?v=iTPFsXcTAaY)
-5. Reactivity Basics (Tracked Decorator) - EmberJS Octane by Ilya Radchenko
-6. Ember Octane - Attributes aka "Splattributes" by Ilya Radchenko
-7. EmberJS Octane - Handling Actions by Ilya Radchenko
-8. EmberConf 2020 - Tuesday March 17th - Part 1
-9. A preview of Ember.js Octane by Gavin Joyce
+5. [Reactivity Basics (Tracked Decorator) - EmberJS Octane by Ilya Radchenko](https://www.youtube.com/watch?v=o_M4D9tiitA)
+6. [Ember Octane - Attributes aka "Splattributes" by Ilya Radchenko](https://www.youtube.com/watch?v=91AU8DIZ11s)
+7. [EmberJS Octane - Handling Actions by Ilya Radchenko](https://www.youtube.com/watch?v=ziujQ7EQX_I)
+8. [EmberConf 2020 - Tuesday March 17th - Part 1](https://www.youtube.com/watch?v=1vZGPJHYcOA)
+9. [A preview of Ember.js Octane by Gavin Joyce](https://www.youtube.com/watch?v=BV09blWlc64)
 
 
 ### Auditory
@@ -85,18 +85,17 @@ https://podcasts.apple.com/us/podcast/javascript-jabber/id1237401284
 1. https://guides.emberjs.com/release/tutorial/
 2. https://github.com/ember-learn/super-rentals
 3. https://github.com/ember-learn/cli-guides
-4. Ember Octane Fundamentals by Mike North
-5. Ember.js tutorial for beginners by Shawn Chen 
-6. Ember.js Tutorial: Build a painting game in 20 mins by Gavin Joyce
-7. Ember Octane Livestream: Build a drum machine by Gavin Joyce
-8. Build An Ember.js App In 2019 For Beginners by Program with Erik
-9. Building a complex web application with Ember.js Octane by Zoltan
-10. http://ember.vicramon.com/
-11. Build a chat app using Ember JS by Christian Nwamba
-12. Build and Authenticate an EmberJS 3 Application by Kapehe Jorgenson
-13. Getting Started With Component Testing - EmberJS Octane by Ilya Radchenko
-14. (1/2) Building a menu component with Tailwind CSS and Ember.js by Gavin Joyce
-15. EmberConf 2019 - Building a UI Styleguide in Ember by Frédéric Soumaré
+4. [Ember Octane Fundamentals by Mike North](https://frontendmasters.com/courses/ember-octane/)
+5. [Ember.js tutorial for beginners by Shawn Chen](https://www.youtube.com/watch?v=eQUvN9Ujs1s) 
+6. [Ember.js Tutorial: Build a painting game in 20 mins by Gavin Joyce](https://www.youtube.com/watch?v=N4KrBuO0RRE)
+7. [Ember Octane Livestream: Build a drum machine by Gavin Joyce](https://www.youtube.com/watch?v=5znpEiwHpL4)
+8. [Build An Ember.js App In 2019 For Beginners by Program with Erik](https://www.youtube.com/watch?v=_JfNuppX1n8)
+9. [Building a complex web application with Ember.js Octane by Zoltan](http://ember.vicramon.com/)
+11. [Build a chat app using Ember JS by Christian Nwamba](https://pusher.com/tutorials/chat-emberjs)
+12. [Build and Authenticate an EmberJS 3 Application by Kapehe Jorgenson](https://auth0.com/blog/build-and-authenticate-an-emberjs-3-application/)
+13. [Getting Started With Component Testing - EmberJS Octane by Ilya Radchenko](https://www.emberweekly.com/article/ilya-radchenko-getting-started-with-component-testing-in-ember-js-octane)
+14. [(1/2) Building a menu component with Tailwind CSS and Ember.js by Gavin Joyce](https://www.emberweekly.com/article/gavin-joyce-building-a-menu-component-with-tailwind-css-and-ember-js-1-2)
+15. [EmberConf 2019 - Building a UI Styleguide in Ember by Frédéric Soumaré](https://www.youtube.com/watch?v=qSuFTj6bpf4)
 
 
 ### Reading
@@ -119,8 +118,8 @@ https://www.apress.com/gp/book/9781484265604
  Fav accounts - 
  
 
-1. Melanie Sumner
-2. Leah Silber
+1. [Melanie Sumner](https://twitter.com/melaniersumner)
+2. [Leah Silber](https://twitter.com/wifelette)
 3. Ava Wroten
 4. Mike North
 5. David Tang
