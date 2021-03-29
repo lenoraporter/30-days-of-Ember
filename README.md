@@ -227,6 +227,7 @@ Ember.js, an open-source JavaScript web framework, for creating ambitious web ap
 ## Learning Plan
 <p>&nbsp;</p>
 📋 <b>What’s the plan?</b>
+<br />
 <code><i>Pick one learning resources that'll cover a span of 30 days:</i></code>
 <br />
     
@@ -236,16 +237,18 @@ Balint Erdi's Rock and Roll with Ember Octane
 
 <p>&nbsp;</p>
 🎯 <b>Goal:</b>
+<br />
 Code for a *minimum* of an hour a day
+<br />
 Mon - Fri: Tutorials & Learning
-
+<p>&nbsp;</p>
 <b>Time:</b>
 <br />
 <code><i>Pick a time where you learn best.</i></code>
-
+<br />
 I learn best in the morning so 6am works for me!
 
-
+<p>&nbsp;</p>
 Week 1 - 83 pages
 ---
 
@@ -263,7 +266,7 @@ Week 1 - 83 pages
 
 Week 2 - 116 pages
 ----------
-|:       Chapters or Video        |     Pages or Time      |
+|:-------Chapters or Video--------|     Pages or Time      |
 |---------------------------------|------------------------|
 | 7. Controllers                  |        Page 83-113     |
 | 8. Building a catalog           |        Page 114-140    |
@@ -273,7 +276,7 @@ Week 2 - 116 pages
 Week 3 - 134 pages
 ----------
 
-|       :Chapters or Video        |     Pages or Time      |
+|:------Chapters or Video---------|     Pages or Time      |
 |---------------------------------|------------------------|
 | 10. Advanced routing            |        Page 200-235    |
 | 11. Testing                     |        Page 236-284    |
@@ -282,7 +285,7 @@ Week 3 - 134 pages
 
 Week 4 - 57 pages
 ----------
-|       :Chapters or Video        |     Pages or Time      |
+|:-----Chapters or Video----------|     Pages or Time      |
 |---------------------------------|------------------------|
 | 13. Loading and Error Substates |        Page 335-348    |
 | 14. Helpers                     |        Page 349-371    |
