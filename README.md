@@ -164,17 +164,17 @@ Ember
 9. Jessica Jordan 
 10. [NullVoxPopuli](https://twitter.com/nullvoxpopuli)
 11. [Jen Weber](https://twitter.com/jwwweber)
-12. Dianne Eramo
-13. Ryan LaBouve
-14. Katie Gengler
-15. Mike North 
-16. Godfrey Chan
-17. Chris Manson
-18. Kenneth Larsen
-19. Ilya Radchenko
-20. Chris Thoburn
-21. Tom Dale
-22. Yehuda Katz
+12. [Dianne Eramo](https://twitter.com/DianneEramo)
+13. [Ryan LaBouve](https://twitter.com/RyanLaBouve)
+14. [Katie Gengler](https://twitter.com/katiegengler)
+15. [Godfrey Chan](https://twitter.com/chancancode)
+16. [Dave Laird](https://twitter.com/kiwiupover)
+17. [Chris Manson](https://twitter.com/real_ate)
+18. [Kenneth Larsen](https://twitter.com/kennethlarsen)
+19. [Ilya Radchenko](https://twitter.com/knownasilya)
+20. [Chris Thoburn]()
+21. [Tom Dale](https://twitter.com/tomdale)
+22. [Yehuda Katz](https://twitter.com/wycats)
 
 👥 <b>Indirect Mentors, Direct Mentors, Friends, and Communities:</b>
 <br />
