@@ -1,5 +1,10 @@
 # 30 Days Of Ember
 
+Contents
+- [What are you learning]
+- [Learning Resources]
+- [Learning Plan](https://github.com/lenoraporter/30-days-of-Ember/blob/main/README.md#learning-plan)
+
 
 <img src="https://user-images.githubusercontent.com/7072856/112852245-c0802c00-9079-11eb-9bcf-496e1d8f7d0e.png" width=500 />
 
