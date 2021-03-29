@@ -231,7 +231,8 @@ Ember.js, an open-source JavaScript web framework, for creating ambitious web ap
 <code><i>Pick one learning resources that'll cover a span of 30 days:<i></code>
 <br />
     
-![image](https://user-images.githubusercontent.com/7072856/112857042-70f02f00-907e-11eb-8894-5e4043256e2f.png)
+<img src="https://user-images.githubusercontent.com/7072856/112857042-70f02f00-907e-11eb-8894-5e4043256e2f.png" width=200>
+<br />
 Balint Erdi's Rock and Roll with Ember Octane
 
 <p>&nbsp;</p>
