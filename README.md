@@ -1,6 +1,6 @@
 # 30 Days Of Ember
 
-Contents
+<code>Table of Contents</code>
 - [What are you learning](https://github.com/lenoraporter/30-days-of-Ember/blob/main/README.md#learning-plan)
 - [Learning Resources](https://github.com/lenoraporter/30-days-of-Ember/blob/main/README.md#learning-plan)
 - [Immerse Yourself in your learning](https://github.com/lenoraporter/30-days-of-Ember/blob/main/README.md#learning-plan)
