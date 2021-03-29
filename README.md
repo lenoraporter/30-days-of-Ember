@@ -7,16 +7,35 @@
 <p>&nbsp;</p>
 
 ## 🤔 What are you learning?
-
-**Topic:** 
-<p>&nbsp;</p>
+**Topic:**
+<br />
+<code><i> One sentence to describe this new skill. </i></code>
 
 Ember
 
-**Core Concepts:**
-<p>&nbsp;</p>
+**Learning Objectives:**
+<br />
+<code><i> List the core concepts or foundational skills needed to master this skill. </i></code>
 
-- [ ] Models
+- [ ] Installing Ember Inspector
+- [ ] Reviewing routes with Ember Inspector
+- [ ] Loading templates with routes
+- [ ] Creating links with the link-to helper
+- [ ] Adding component templates
+- [ ] Loading model data
+- [ ] Customizing components
+- [ ] Building nested routes and route objects
+- [ ] Loading data with object and array controllers
+- [ ] Creating interfaces
+
+**Proficiency Metrics:**
+<br />
+<code><i> List task you'll be able to achieve after completed this 30 day learning journey.  </i></code>
+
+- [ ] Architectural Understanding
+    - [ ] Model
+    - [ ] View
+    - [ ] Controller
 - [ ] Routing
 - [ ] The object model
 - [ ] Services
@@ -32,28 +51,6 @@ Ember
     - [ ] Functional Helpers
     - [ ] Block helpers
 - [ ] Nesting
-
-
-**Learning Metrics:**
-<code><i> What should I be able to do after my first 30 days? </i></code>
-<p>&nbsp;</p>
-
-- [ ] Installing Ember Inspector
-- [ ] Reviewing routes with Ember Inspector
-- [ ] Loading templates with routes
-- [ ] Creating links with the link-to helper
-- [ ] Adding component templates
-- [ ] Loading model data
-- [ ] Customizing components
-- [ ] Building nested routes and route objects
-- [ ] Loading data with object and array controllers
-- [ ] Creating interfaces
-
-**Architectural Understanding:**
-
-- [ ] Model
-- [ ] View
-- [ ] Controller
 
 
 ## Learning Resources:
