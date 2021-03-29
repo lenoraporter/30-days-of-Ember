@@ -19,39 +19,39 @@ Understand Ember core concepts:
 
 Architectural Understanding:
 
-[] Model
-[] View
-[] Controller
+- [ ] Model
+- [ ] View
+- [ ] Controller
 
 Broad topics:
 
-[ ] Models
-[ ] Routing
-[ ] The object model
-[ ] Services
-[ ] Components
-[ ] Templating
-[ ] Controllers
-[ ] Ember Data
-[ ] Addons and Dependencies
-[ ] Testing
-[ ] Configuration
-[ ] Binding
-[ ] Handlebars
-    [ ] Functional Helpers
-    [ ] Block helpers
-[ ] Nesting
+- [ ] Models
+- [ ] Routing
+- [ ] The object model
+- [ ] Services
+- [ ] Components
+- [ ] Templating
+- [ ] Controllers
+- [ ] Ember Data
+- [ ] Addons and Dependencies
+- [ ] Testing
+- [ ] Configuration
+- [ ] Binding
+- [ ] Handlebars
+    - [ ] Functional Helpers
+    - [ ] Block helpers
+- [ ] Nesting
 
 
 Focused Topics:
 
-[ ] Installing Ember Inspector
-[ ] Reviewing routes with Ember Inspector
-[ ] Loading templates with routes
-[ ] Creating links with the link-to helper
-[ ] Adding component templates
-[ ] Loading model data
-[ ] Customizing components
-[ ] Building nested routes and route objects
-[ ] Loading data with object and array controllers
-[ ] Creating interfaces
+- [ ] Installing Ember Inspector
+- [ ] Reviewing routes with Ember Inspector
+- [ ] Loading templates with routes
+- [ ] Creating links with the link-to helper
+- [ ] Adding component templates
+- [ ] Loading model data
+- [ ] Customizing components
+- [ ] Building nested routes and route objects
+- [ ] Loading data with object and array controllers
+- [ ] Creating interfaces
