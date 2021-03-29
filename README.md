@@ -19,9 +19,9 @@ Understand Ember core concepts:
 
 Architectural Understanding:
 
-[ ] Model
-[ ] View
-[ ] Controller
+[] Model
+[] View
+[] Controller
 
 Broad topics:
 
