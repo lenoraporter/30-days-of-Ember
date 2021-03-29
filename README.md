@@ -149,6 +149,44 @@ Ember.js, an open-source JavaScript web framework, for creating ambitious web ap
 <br />
 <code><i>Example: #javascript, #womenintech, #peopleintech, #blacksintech, #blackwomenintech, #codinglife, #frontend, #emberjs etc.</i></code>
 
+1. #emberJS
+2. #100daysofcode
+3. #womenintech
+4. #peopleintech
+5. #blacksintech
+6. #blackwomenintech
+7. #codinglife
+8. #frontend
+9. #BlackTechTwitter
+10. #LatinXTechTwitter
+11. #POCinTech
+12. #NonBinaryInTech
+13. #LGBTQinTech
+14. #IndigenousTechnologists
+15. #NativeTechTwitter
+16. #NativesinTech
+17. #javascript
+18. #html
+19. #programming
+20. #coding
+21. #css
+22. #developer
+23. #programmer
+24. #webdeveloper
+25. #code
+26. #webdevelopment
+27. #coder 
+28. #webdesign 
+29. #software 
+30. #softwaredeveloper 
+31. #codinglife 
+32. #computerscience 
+33. #technology 
+34. #js 
+35. #javascriptdeveloper 
+36. #softwareengineer 
+37. #programmers
+
 👤 <b>Social Media Accounts to follow:</b>
 <br />
 <code><i>Personally, I love following the creators of the coding language, folks who identify as core contributors and folks who talk about what I want to learn.</i></code>
@@ -179,6 +217,11 @@ Ember.js, an open-source JavaScript web framework, for creating ambitious web ap
 👥 <b>Indirect Mentors, Direct Mentors, Friends, and Communities:</b>
 <br />
 <code><i>Indirect Mentors are those informal mentors who may or may not know you; however, they provide encouragment or aide in some way. Direct mentors are those folks who you have a recurring meeting cadence, those who you have direct access to, and folks who you may spend time pairing programming with.</i></code>
+
+1. [Ember Community Discord](https://discord.gg/emberjs)
+2. [StackOverflow](https://stackoverflow.com/questions/tagged/ember.js)
+3. [Dev Community](https://dev.to/t/ember)
+4. [Ember Discuss](https://discuss.emberjs.com/)
 
 
 ## Learning Plan
