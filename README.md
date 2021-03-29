@@ -2,18 +2,18 @@
 
 ![](https://paper-attachments.dropbox.com/s_9C80D43A70C406F2318A0207F259899A7F1AD513197FE94D57BE7369813D3E2A_1558035117738_file.jpeg)
 
-🤔 What is this?
+## 🤔 What is this?
 
 This document was created to help anyone learn Ember in a structured weekly manner.
 
 
-📋 What’s the plan? 
+## 📋 What’s the plan? 
 
 Code for a *minimum* of an hour a day
 Mon - Fri: Tutorials & Learning
 
 
-🎯 Goal:
+## 🎯 Goal:
 
 Understand Ember core concepts:
 
