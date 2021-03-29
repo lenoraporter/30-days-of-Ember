@@ -2,7 +2,8 @@
 
 Contents
 - [What are you learning](https://github.com/lenoraporter/30-days-of-Ember/blob/main/README.md#learning-plan)
-- [Learning Resources]
+- [Learning Resources](https://github.com/lenoraporter/30-days-of-Ember/blob/main/README.md#learning-plan)
+- [Immerse Yourself in your learning]()
 - [Learning Plan](https://github.com/lenoraporter/30-days-of-Ember/blob/main/README.md#learning-plan)
 
 
