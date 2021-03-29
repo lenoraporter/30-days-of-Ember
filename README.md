@@ -50,7 +50,7 @@ Ember.js, an open-source JavaScript web framework, for creating ambitious web ap
 - [ ] Customizing components
 - [ ] Building nested routes and route objects
 - [ ] Loading data with object and array controllers
-- [ ] Creating interfaces
+- [ ] Creating interfaces with CSS. Where to put my stylesheets?
 - [ ] How to create conditionals?
 - [ ] How to loop?
 - [ ] What is the Convention-over-Configuration Approach?
@@ -236,36 +236,47 @@ Mon - Fri: Tutorials & Learning
 
 
 
-Week 1
+Week 1 - 83 pages
 ---
 
-| Chapters or Video  | Pages or Time  |
-|--------------------|----------------|
-|      Section 1     |   Pages 1-20   |
-|      Section 2     |   Pages 20-50  |
+|        Chapters or Video        |     Pages or Time      |
+|---------------------------------|------------------------|
+| 1. Introduction to Ember.js     |        Page 1-15       |
+| 2. Ember CLI                    |        Page 16-24      |
+| 3. Templates and Data Bindings  |        Page 25-33      |
+| 4. Routing                      |        Page 34-45      |
+| 5. Nested Routes                |        Page 46-66      |
+| 6. Components                   |        Page 67-83      |
 
 
-Week 2
+
+
+Week 2 - 116 pages
+----------
+|        Chapters or Video        |     Pages or Time      |
+|---------------------------------|------------------------|
+| 7. Controllers                  |        Page 83-113     |
+| 8. Building a catalog           |        Page 114-140    |
+| 9. Talking to a back-end        |        Page 141-199    |
+
+
+Week 3 - 134 pages
 ----------
 
-| Chapters or Video  | Pages or Time  |
-|--------------------|----------------|
-|      Section 3     |  Pages 50-100  |
-|      Section 4     |  Pages 100-150 |
+|        Chapters or Video        |     Pages or Time      |
+|---------------------------------|------------------------|
+| 10. Advanced routing            |        Page 200-235    |
+| 11. Testing                     |        Page 236-284    |
+| 12. Query Params                |        Page 285-334    |
 
-Week 3
-----------
-| Chapters or Video  | Pages or Time  |
-|--------------------|----------------|
-|      Section 5     |  Pages 150-200 |
-|      Section 6     |  Pages 200-250 |
 
-Week 4
+Week 4 - 57 pages
 ----------
-| Chapters or Video  | Pages or Time  |
-|--------------------|----------------|
-|      Section 7     |  Pages 250-300 |
-|      Section 8     |  Pages 300-350 |
+|        Chapters or Video        |     Pages or Time      |
+|---------------------------------|------------------------|
+| 13. Loading and Error Substates |        Page 335-348    |
+| 14. Helpers                     |        Page 349-371    |
+| 15. Deployment                  |        Page 372-392    |
 
 
 
