@@ -247,9 +247,8 @@ Mon - Fri: Tutorials & Learning
 <br />
 I learn best in the morning so 6am works for me!
 
-<p>&nbsp;</p>
-<br />
-Week 1 - 83 pages
+
+Week 1: 83 pages
 -----
 
 |Chapters or Video                |     Pages or Time      |
@@ -262,7 +261,7 @@ Week 1 - 83 pages
 | 6. Components                   |        Page 67-83      |
 
 
-Week 2 - 116 pages
+Week 2: 116 pages
 ----------
 |Chapters or Video                |     Pages or Time      |
 |---------------------------------|------------------------|
@@ -271,7 +270,7 @@ Week 2 - 116 pages
 | 9. Talking to a back-end        |        Page 141-199    |
 
 
-Week 3 - 134 pages
+Week 3: 134 pages
 ----------
 
 |Chapters or Video                |     Pages or Time      |
@@ -281,7 +280,7 @@ Week 3 - 134 pages
 | 12. Query Params                |        Page 285-334    |
 
 
-Week 4 - 57 pages
+Week 4: 57 pages
 ----------
 |Chapters or Video                |     Pages or Time      |
 |---------------------------------|------------------------|
