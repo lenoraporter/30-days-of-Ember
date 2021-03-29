@@ -1,7 +1,7 @@
 # 30 Days Of Ember
 
 
-<img src="https://paper-attachments.dropbox.com/s_9C80D43A70C406F2318A0207F259899A7F1AD513197FE94D57BE7369813D3E2A_1558035117738_file.jpeg" width=400 />
+<img src="https://user-images.githubusercontent.com/7072856/112851705-3d5ed600-9079-11eb-815c-4812eb1c4291.jpeg" width=400 />
 
 
 <p>&nbsp;</p>
