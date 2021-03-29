@@ -226,7 +226,7 @@ Ember.js, an open-source JavaScript web framework, for creating ambitious web ap
 
 ## Learning Plan
 <p>&nbsp;</p>
-📋 **What’s the plan?** 
+📋 <b>What’s the plan?</b>
 
 <code><i>Pick one learning resources that'll cover a span of 30 days:</i></code>
 <br />
@@ -236,12 +236,12 @@ Ember.js, an open-source JavaScript web framework, for creating ambitious web ap
 Balint Erdi's Rock and Roll with Ember Octane
 
 <p>&nbsp;</p>
-🎯 **Goal:**
+🎯 <b>Goal:</b>
 <p>&nbsp;</p>
 Code for a *minimum* of an hour a day
 Mon - Fri: Tutorials & Learning
 
-**Time:**
+<b>Time:</b>
 <br />
 <code><i>Pick a time where you learn best.</i></code>
 
@@ -251,7 +251,7 @@ I learn best in the morning so 6am works for me!
 Week 1 - 83 pages
 ---
 
-|       :Chapters or Video        |     Pages or Time      |
+|:       Chapters or Video        |     Pages or Time      |
 |---------------------------------|------------------------|
 | 1. Introduction to Ember.js     |        Page 1-15       |
 | 2. Ember CLI                    |        Page 16-24      |
@@ -265,7 +265,7 @@ Week 1 - 83 pages
 
 Week 2 - 116 pages
 ----------
-|       :Chapters or Video        |     Pages or Time      |
+|:       Chapters or Video        |     Pages or Time      |
 |---------------------------------|------------------------|
 | 7. Controllers                  |        Page 83-113     |
 | 8. Building a catalog           |        Page 114-140    |
