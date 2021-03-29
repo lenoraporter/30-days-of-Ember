@@ -10,6 +10,9 @@
 
 **Topic:** 
 <p>&nbsp;</p>
+
+Ember
+
 **Core Concepts:**
 <p>&nbsp;</p>
 
@@ -31,7 +34,8 @@
 - [ ] Nesting
 
 
-**Foundational:**
+**Learning Metrics:**
+<code><i> What should I be able to do after my first 30 days? </i></code>
 <p>&nbsp;</p>
 
 - [ ] Installing Ember Inspector
