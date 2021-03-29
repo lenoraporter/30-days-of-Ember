@@ -1,7 +1,7 @@
 # 30 Days Of Ember
 
 
-<img src="https://user-images.githubusercontent.com/7072856/112851705-3d5ed600-9079-11eb-815c-4812eb1c4291.jpeg" width=800 />
+<img src="https://user-images.githubusercontent.com/7072856/112852245-c0802c00-9079-11eb-9bcf-496e1d8f7d0e.png" width=800 />
 
 
 <p>&nbsp;</p>
