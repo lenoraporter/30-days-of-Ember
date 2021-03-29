@@ -1,7 +1,3 @@
-
-
-
-### Open Source Projects to Contribute To:
 # 30 Days Of Ember
 
 
@@ -36,7 +32,7 @@ Core Concepts:
 - [ ] Nesting
 
 
-Foundational:
+<bold>Foundational:</bold>
 <p>&nbsp;</p>
 
 - [ ] Installing Ember Inspector
@@ -50,7 +46,7 @@ Foundational:
 - [ ] Loading data with object and array controllers
 - [ ] Creating interfaces
 
-Architectural Understanding:
+<bold>Architectural Understanding:</bold>
 
 - [ ] Model
 - [ ] View
