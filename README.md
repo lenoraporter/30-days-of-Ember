@@ -60,12 +60,11 @@ Focused Topics:
 ## Tools based on my learning style
 
 
-Visuals
-----------
+### Visuals
 1. https://embermap.com
 2. https://www.emberscreencasts.com
 3. https://www.youtube.com/watch?v=zXbqv2PeYCM
-4. (Ember Octane - Great For Beginners by Ilya Radchenko)[https://www.youtube.com/watch?v=iTPFsXcTAaY]
+4. [Ember Octane - Great For Beginners by Ilya Radchenko](https://www.youtube.com/watch?v=iTPFsXcTAaY)
 5. Reactivity Basics (Tracked Decorator) - EmberJS Octane by Ilya Radchenko
 6. Ember Octane - Attributes aka "Splattributes" by Ilya Radchenko
 7. EmberJS Octane - Handling Actions by Ilya Radchenko
@@ -73,8 +72,7 @@ Visuals
 9. A preview of Ember.js Octane by Gavin Joyce
 
 
-Auditory
-----------
+### Auditory
 https://embermap.com/podcast
 
 https://changelog.com/jsparty
@@ -83,8 +81,7 @@ https://audio.ember.report/
 
 https://podcasts.apple.com/us/podcast/javascript-jabber/id1237401284
 
-Hands-On
-----------
+### Hands-On
 1. https://guides.emberjs.com/release/tutorial/
 2. https://github.com/ember-learn/super-rentals
 3. https://github.com/ember-learn/cli-guides
@@ -102,8 +99,7 @@ Hands-On
 15. EmberConf 2019 - Building a UI Styleguide in Ember by Frédéric Soumaré
 
 
-Reading
-----------
+### Reading
 https://emberjs.com/
 
 http://www.balinterdi.com/rock-and-roll-with-emberjs
@@ -116,8 +112,7 @@ https://www.apress.com/gp/book/9781484265604
 
 
 
-Social Media Accounts to follow
-----------
+### Social Media Accounts to follow
 
  https://twitter.com/i/lists/199135857
  
@@ -147,8 +142,7 @@ Social Media Accounts to follow
 21. Yehuda Katz
 
 
-Open Source Projects to Contribute To:
-----------
+### Open Source Projects to Contribute To:
 1. https://github.com/ember-learn/ember-api-docs
 2. https://github.com/emberjs/data
 3. https://github.com/ember-learn/guides-source
