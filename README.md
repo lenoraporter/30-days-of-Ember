@@ -226,9 +226,9 @@ Ember.js, an open-source JavaScript web framework, for creating ambitious web ap
 
 ## Learning Plan
 <p>&nbsp;</p>
-📋 What’s the plan? 
+📋 **What’s the plan?** 
 
-<code><i>Pick one learning resources that'll cover a span of 30 days:<i></code>
+<code><i>Pick one learning resources that'll cover a span of 30 days:</i></code>
 <br />
     
 <img src="https://user-images.githubusercontent.com/7072856/112857042-70f02f00-907e-11eb-8894-5e4043256e2f.png" width=200>
@@ -236,18 +236,16 @@ Ember.js, an open-source JavaScript web framework, for creating ambitious web ap
 Balint Erdi's Rock and Roll with Ember Octane
 
 <p>&nbsp;</p>
-🎯 Goal:
+🎯 **Goal:**
 <p>&nbsp;</p>
 Code for a *minimum* of an hour a day
 Mon - Fri: Tutorials & Learning
 
-Time:
+**Time:**
 <br />
 <code><i>Pick a time where you learn best.</i></code>
 
 I learn best in the morning so 6am works for me!
-
-
 
 
 Week 1 - 83 pages
