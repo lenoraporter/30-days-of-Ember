@@ -8,9 +8,9 @@
 
 ## 🤔 What are you learning?
 
-Topic: 
+**Topic:** 
 <p>&nbsp;</p>
-Core Concepts:
+**Core Concepts:**
 <p>&nbsp;</p>
 
 - [ ] Models
@@ -31,7 +31,7 @@ Core Concepts:
 - [ ] Nesting
 
 
-<bold>Foundational:</bold>
+**Foundational:**
 <p>&nbsp;</p>
 
 - [ ] Installing Ember Inspector
@@ -45,7 +45,7 @@ Core Concepts:
 - [ ] Loading data with object and array controllers
 - [ ] Creating interfaces
 
-<bold>Architectural Understanding:</bold>
+**Architectural Understanding:**
 
 - [ ] Model
 - [ ] View
