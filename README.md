@@ -1,7 +1,7 @@
 # 30 Days Of Ember
 
 
-<img src="https://paper-attachments.dropbox.com/s_9C80D43A70C406F2318A0207F259899A7F1AD513197FE94D57BE7369813D3E2A_1558035117738_file.jpeg" width=800 />
+<img src="https://paper-attachments.dropbox.com/s_9C80D43A70C406F2318A0207F259899A7F1AD513197FE94D57BE7369813D3E2A_1558035117738_file.jpeg" width=600 />
 
 
 <p>&nbsp;</p>
